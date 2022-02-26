@@ -9,3 +9,4 @@ mpim:read
 users:read
 
 Generate its OAuth API token & paste this value in the .env file. 
+Ensure you install the slackclient & python-dotenv modules using PIP before running the code.
